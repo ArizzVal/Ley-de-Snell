@@ -1,4 +1,5 @@
 # Ley-de-Snell
+Simulador interactivo de la Ley de Snell con Python y gráficos en tiempo real.
 ## 🌟 ¿Qué es la Ley de Snell?
 > Cuando la luz pasa de un medio a otro, **cambia de dirección**.  
 > La relación entre los ángulos se describe como:  
