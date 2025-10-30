@@ -11,7 +11,7 @@ Simulador interactivo de la Ley de Snell con Python y gráficos en tiempo real.
 
 - #### COLABORADORES 
 <a href="https://github.com/ArizzVal/Ley-de-Snell/graphs/contributors">
-<!--<img src="https://contrib.rocks/image?repo=AzamiJs/CuriosityBot-MD" /> -->
+<img src="https://contrib.rocks/image?repo=AzamiJs/CuriosityBot-MD" />
 </a>
 
 <!-- markdownlint-restore -->
@@ -23,7 +23,7 @@ Simulador interactivo de la Ley de Snell con Python y gráficos en tiempo real.
 <!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 [![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)-->
-<a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+<a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=100" width="100" height="100"></a> | [![JY_PIECE](https://avatars.githubusercontent.com/u/137434511?v=4?size=100)](https://github.com/ArizzVal) 
 ---|---
 [Bochilgaming](https://github.com/BochilGaming)  | [Nurutomo](https://github.com/Nurutomo)
 games-wabot | wabot-q |"><img src="https://github.com/AzamiJs.png" width="250" height="250" alt="Azami19"/></a>
