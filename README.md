@@ -6,7 +6,12 @@ Simulador interactivo de la Ley de Snell con Python y gráficos en tiempo real.
 >  
 > $$ n_1 \sin(\theta_1) = n_2 \sin(\theta_2) $$
 
-##### AGRADECIMIENTO ESPECIAL PARA
+##### CREADOR, EDITADO Y HECHO POR:
+
+<a href="https://github.com/ArizzVal/Ley-de-Snell/graphs/contributors">
+  </a>
+<!-- <img src="https://contrib.rocks/image?repo=AzamiJs/CuriosityBot-MD" /> -->
+
 <!--[![GUstavo](https://github.com/ArizzVal.png?size=100)](https://github.com/ArizzVal)-->
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org) 
