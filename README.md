@@ -25,8 +25,8 @@ Simulador interactivo de la Ley de Snell con Python y gráficos en tiempo real.
 [![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)-->
 <a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=100" width="100" height="100"></a> | [![JY_PIECE](https://avatars.githubusercontent.com/u/137434511?v=4?size=100)](https://github.com/ArizzVal) 
 ---|---
-[Bochilgaming](https://github.com/BochilGaming)  | [Nurutomo](https://github.com/Nurutomo)
-games-wabot | wabot-q |"><img src="https://github.com/AzamiJs.png" width="250" height="250" alt="Azami19"/></a>
+[Bochilgaming](https://github.com/BochilGaming)  | [Jy_piece](https://github.com/ArizzVal)
+games-wabot | Desarrollador |"><img src="https://github.com/AzamiJs.png" width="250" height="250" alt="Azami19"/></a>
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
