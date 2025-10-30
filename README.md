@@ -8,7 +8,6 @@ Simulador interactivo de la Ley de Snell con Python y gráficos en tiempo real.
 
 ##### CREADOR, EDITADO Y HECHO POR:
 ### EDITOR Y PROPIETARIO DEL BOT
-<a href="### EDITOR Y PROPIETARIO DEL BOT
 <a href="https://github.com/ArizzVal"><img src="https://github.com/AzamiJs.png" width="250" height="250" alt="Azami19"/></a>
 
 - #### COLABORADORES 
