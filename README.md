@@ -11,7 +11,7 @@ Simulador interactivo de la Ley de Snell con Python y gráficos en tiempo real.
 
 - #### COLABORADORES 
 <a href="https://github.com/ArizzVal/Ley-de-Snell/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=AzamiJs/CuriosityBot-MD" /> 
+<!--<img src="https://contrib.rocks/image?repo=AzamiJs/CuriosityBot-MD" /> -->
 </a>
 
 <!-- markdownlint-restore -->
