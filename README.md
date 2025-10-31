@@ -46,7 +46,7 @@ No se requieren permisos especiales ni acceso a internet para ejecutar el códig
 
 Si tienes problemas o sugerencias, ¡abre un issue en el repositorio!
 
-## EDITOR Y PROPIETARIO DEL REPOSITORIO
+<!--## EDITOR Y PROPIETARIO DEL REPOSITORIO
 <a href="https://github.com/ArizzVal"><img src="https://avatars.githubusercontent.com/u/137434511?v=4" width="250" height="250" alt="Azami19"/></a>
 
 <!-- #### COLABORADORES 
