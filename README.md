@@ -28,13 +28,13 @@ Instalación
 
 Clona o descarga el repositorio (o copia el código en un archivo llamado Simulador.py).
 Instala la dependencia principal:
-    <pre>textpip install customtkinter</pre>
+    <pre>pip install customtkinter</pre>
 
 ## Cómo Ejecutar
 
 Abre una terminal o línea de comandos en el directorio donde se encuentra el archivo Simulador.py.
 Ejecuta el script con Python:
-    <pre>textpython SimuladorLeyDeSnell.py</pre>
+    <pre>python SimuladorLeyDeSnell.py</pre>
 (Si usas Python 3 explícitamente, puedes usar python3 Simulador.py en algunos sistemas).
 
 La ventana del simulador se abrirá automáticamente. Puedes interactuar con el panel de control para cambiar el número de interfaces, el ángulo de incidencia y los materiales de cada capa. El canvas se actualizará en tiempo real.
