@@ -35,7 +35,7 @@ Instala la dependencia principal:
 Abre una terminal o línea de comandos en el directorio donde se encuentra el archivo Simulador.py.
 Ejecuta el script con Python:
     <pre>python SimuladorLeyDeSnell.py</pre>
-(Si usas Python 3 explícitamente, puedes usar python3 Simulador.py en algunos sistemas).
+(Si usas Python 3 explícitamente, puedes usar python3 SimuladorLeyDeSnell.py en algunos sistemas).
 
 La ventana del simulador se abrirá automáticamente. Puedes interactuar con el panel de control para cambiar el número de interfaces, el ángulo de incidencia y los materiales de cada capa. El canvas se actualizará en tiempo real.
 Notas
