@@ -13,7 +13,7 @@
 ---
 
 </div>
-
+<!--
 ## 📚 Tabla de Contenidos
 - [🌟 ¿Qué es la Ley de Snell?](#🌟-qué-es-la-ley-de-snell)
 - [🧠 Descripción del Proyecto](#🧠-descripción-del-proyecto)
@@ -26,15 +26,14 @@
 - [🧰 Tecnologías Utilizadas](#🧰-tecnologías-utilizadas)
 - [💡 Créditos y Agradecimientos](#💡-créditos-y-agradecimientos)
 - [🪪 Licencia](#🪪-licencia)
-
----
+-->
 
 ## 🌟 ¿Qué es la Ley de Snell?
 
-> Cuando la luz pasa de un medio a otro, **cambia de dirección**.  
-> La relación entre los ángulos se describe como:  
->  
-> $$ n_1 \sin(\theta_1) = n_2 \sin(\theta_2) $$
+ Cuando la luz pasa de un medio a otro, **cambia de dirección**.  
+ La relación entre los ángulos se describe como:
+
+ $$ n_1 \sin(\theta_1) = n_2 \sin(\theta_2) $$
 
 ---
 
