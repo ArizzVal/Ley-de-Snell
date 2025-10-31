@@ -63,9 +63,9 @@ Si tienes problemas o sugerencias, ¡abre un issue en el repositorio!
 <!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 [![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)-->
-<a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=100" width="100" height="100"></a> | [![JY_PIECE](https://avatars.githubusercontent.com/u/137434511?v=4?size=100)](https://github.com/ArizzVal) 
+<a href="https://github.com/Fercho36"><img src="https://avatars.githubusercontent.com/u/165216584?v=4?size=100" width="100" height="100"></a> | [![JY_PIECE](https://avatars.githubusercontent.com/u/137434511?v=4?size=100)](https://github.com/ArizzVal) 
 ---|---
-[Bochilgaming](https://github.com/Fercho36)  | [Jy_piece](https://github.com/ArizzVal)
+[Fercho](https://github.com/Fercho36)  | [Jy_piece](https://github.com/ArizzVal)
 Desarrollador Maestro | Desarrollador |"><img src="https://avatars.githubusercontent.com/u/165216584?v=4" width="250" height="250" alt="Azami19"/></a>
 
 
