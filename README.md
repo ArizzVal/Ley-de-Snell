@@ -89,5 +89,6 @@ El simulador requiere las siguientes bibliotecas:
    pip install customtkinter
 
 ## 🎬 Demo del simulador
-
+🎮 **Vista previa del simulador** 
+![Simulador en acción](demo/Demo.gif)
 [![Ver demo](https://img.shields.io/badge/🎥%20Ver%20demo%20en%20GitHub-darkblue)](https://github.com/ArizzVal/Ley-de-Snell/raw/refs/heads/main/demo/Demo%20-%20Simulador%20Ley%20De%20Snell.mp4)
