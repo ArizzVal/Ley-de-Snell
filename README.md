@@ -1,72 +1,91 @@
-# Simulador de la Ley de Snell
+<div align="center">
+
+# 🔆 Simulador de la Ley de Snell
+
+💡 **Visualiza cómo se refracta y refleja un rayo de luz al pasar entre diferentes materiales.**  
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform](https://img.shields.io/badge/Compatible-Windows%20|%20macOS%20|%20Linux-green)
+![Status](https://img.shields.io/badge/Estado-Activo-success)
+![Visitas](https://komarev.com/ghpvc/?username=ArizzVal&label=Visitas&color=blue&style=flat-square)
+
+---
+
+</div>
+
+## 📚 Tabla de Contenidos
+- [🌟 ¿Qué es la Ley de Snell?](#🌟-qué-es-la-ley-de-snell)
+- [🧠 Descripción del Proyecto](#🧠-descripción-del-proyecto)
+- [⚙️ Requisitos Previos](#⚙️-requisitos-previos)
+- [📦 Dependencias](#📦-dependencias)
+- [🚀 Instalación](#🚀-instalación)
+- [▶️ Cómo Ejecutar](#▶️-cómo-ejecutar)
+- [📸 Vista Previa](#📸-vista-previa)
+- [🧩 Notas](#🧩-notas)
+- [🧰 Tecnologías Utilizadas](#🧰-tecnologías-utilizadas)
+- [💡 Créditos y Agradecimientos](#💡-créditos-y-agradecimientos)
+- [🪪 Licencia](#🪪-licencia)
+
+---
 
 ## 🌟 ¿Qué es la Ley de Snell?
+
 > Cuando la luz pasa de un medio a otro, **cambia de dirección**.  
 > La relación entre los ángulos se describe como:  
 >  
 > $$ n_1 \sin(\theta_1) = n_2 \sin(\theta_2) $$
 
-## Descripción
-Este proyecto es un simulador gráfico interactivo de la Ley de Snell, que permite visualizar cómo se refracta y refleja un rayo de luz al pasar por diferentes interfaces de materiales. El usuario puede ajustar el número de interfaces, los materiales, y el ángulo de incidencia. El simulador está desarrollado en Python utilizando una interfaz gráfica moderna.
-El código principal se encuentra en el archivo  SimuladorLeyDeSnell.py.
-Requisitos Previos
+---
 
-## Sistema Operativo: Compatible con Windows, macOS o Linux.
-Python: Versión 3.6 o superior. Puedes descargar Python desde [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
+## 🧠 Descripción del Proyecto
 
-## Dependencias
+Este proyecto es un **simulador gráfico interactivo de la Ley de Snell**, desarrollado en **Python**, que permite visualizar cómo un rayo de luz se **refracta y refleja** al pasar por diferentes materiales.
+
+🪞 **Características principales:**
+- Ajuste del número de **interfaces ópticas**  
+- Configuración del **índice de refracción** de cada medio  
+- Modificación del **ángulo de incidencia**  
+- Interfaz **moderna** con modo **claro/oscuro**  
+- Actualización **en tiempo real** del rayo de luz  
+
+El código principal se encuentra en el archivo **`SimuladorLeyDeSnell.py`**.
+
+---
+
+## ⚙️ Requisitos Previos
+
+🖥️ **Sistema Operativo:** Windows, macOS o Linux  
+🐍 **Python:** Versión 3.6 o superior  
+📥 Puedes descargar Python desde aquí:  
+[![Descargar Python](https://img.shields.io/badge/Python.org-Descargar-blue?logo=python)](https://python.org)
+
+---
+
+## 📦 Dependencias
+
 El simulador requiere las siguientes bibliotecas:
 
-**tkinter:** Biblioteca estándar de Python para interfaces gráficas. Viene incluida en la mayoría de las instalaciones de Python (no requiere instalación adicional).
+| Librería | Descripción | Instalación |
+|-----------|-------------|--------------|
+| **tkinter** | Biblioteca estándar de Python para interfaces gráficas. | Incluida por defecto |
+| **customtkinter** | Widgets modernos con soporte de temas claro/oscuro. | `pip install customtkinter` |
+| **math** | Funciones matemáticas (seno, coseno, etc.). | Incluida por defecto |
 
-**customtkinter:**  Extensión de tkinter para widgets modernos con soporte para temas claro/oscuro. 
+💡 *Puedes usar un entorno virtual para evitar conflictos con otras dependencias.*
+
+---
+
+## 🚀 Instalación
+
+1. **Clona o descarga** el repositorio:  
+   ```bash
+   git clone https://github.com/ArizzVal/Ley-de-Snell.git
+   
+2. **Entra al directorio** del proyecto:
+    ```bash
+   cd Ley-de-Snell
+3. **Instala las dependencias** necesarias:
+   ```bash
+   pip install customtkinter
     
-**math:**  Biblioteca estándar de Python para funciones matemáticas (seno, coseno, etc.). Viene incluida en Python (no requiere instalación adicional).
-
-Asegúrate de ejecutar el comando de instalación en un entorno virtual si lo prefieres, para evitar conflictos con otras dependencias.
-Instalación
-
-Clona o descarga el repositorio (o copia el código en un archivo llamado Simulador.py).
-Instala la dependencia principal:
-    <pre>pip install customtkinter</pre>
-
-## Cómo Ejecutar
-
-Abre una terminal o línea de comandos en el directorio donde se encuentra el archivo Simulador.py.
-Ejecuta el script con Python:
-    <pre>python SimuladorLeyDeSnell.py</pre>
-(Si usas Python 3 explícitamente, puedes usar python3 SimuladorLeyDeSnell.py en algunos sistemas).
-
-La ventana del simulador se abrirá automáticamente. Puedes interactuar con el panel de control para cambiar el número de interfaces, el ángulo de incidencia y los materiales de cada capa. El canvas se actualizará en tiempo real.
-Notas
-
-Si encuentras errores relacionados con tkinter, verifica que Python esté instalado correctamente y que tkinter esté disponible (en algunos sistemas Linux, puede requerir sudo apt install python3-tk).
-El simulador soporta modo claro y oscuro; usa el botón en la parte superior para alternar.
-No se requieren permisos especiales ni acceso a internet para ejecutar el código.
-
-Si tienes problemas o sugerencias, ¡abre un issue en el repositorio!
-
-<!--## EDITOR Y PROPIETARIO DEL REPOSITORIO
-<a href="https://github.com/ArizzVal"><img src="https://avatars.githubusercontent.com/u/137434511?v=4" width="250" height="250" alt="Azami19"/></a>
-
-<!-- #### COLABORADORES 
-<a href="https://github.com/ArizzVal/Ley-de-Snell/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=AzamiJs/CuriosityBot-MD" />
-</a> -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-##### AGRADECIMIENTO ESPECIAL PARA
-<!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-[![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)-->
-<a href="https://github.com/Fercho36"><img src="https://avatars.githubusercontent.com/u/165216584?v=4?size=100" width="100" height="100"></a> | [![JY_PIECE](https://avatars.githubusercontent.com/u/137434511?v=4?size=100)](https://github.com/ArizzVal) 
----|---
-[Fercho](https://github.com/Fercho36)  | [Jy_piece](https://github.com/ArizzVal)
-Desarrollador Maestro | Desarrollador |"><img src="https://avatars.githubusercontent.com/u/165216584?v=4" width="250" height="250" alt="Azami19"/></a>
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
