@@ -94,3 +94,14 @@ El simulador requiere las siguientes bibliotecas:
 
 
 ![Simulador en acción](demo/Demo.gif)
+---
+##### HECHO GRACIAS A:
+<!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
+[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+[![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)-->
+<a href="https://github.com/Fercho36"><img src="https://avatars.githubusercontent.com/u/165216584?v=4?size=100" width="100" height="100"></a> | [![JY_PIECE](https://avatars.githubusercontent.com/u/137434511?v=4?size=100)](https://github.com/ArizzVal) 
+---|---
+[Fercho36 (Fernando MV)](https://github.com/Fercho36)  | [Jy_piece (Gustavo Aris)](https://github.com/ArizzVal)
+Desarrollador del programa | Desarrollador de la Repo Git |"><img src="https://avatars.githubusercontent.com/u/165216584?v=4" width="250" height="250" alt="Fercho36"/></a>
+
+###### Viva Cristo rey
