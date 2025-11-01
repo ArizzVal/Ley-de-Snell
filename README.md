@@ -95,13 +95,11 @@ El simulador requiere las siguientes bibliotecas:
 
 ![Simulador en acción](demo/Demo.gif)
 ---
-##### HECHO GRACIAS A:
-<!--[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-[![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)-->
-<a href="https://github.com/Fercho36"><img src="https://avatars.githubusercontent.com/u/165216584?v=4?size=100" width="100" height="100"></a> | [![JY_PIECE](https://avatars.githubusercontent.com/u/137434511?v=4?size=100)](https://github.com/ArizzVal) 
----|---
-[Fercho36 (Fernando MV)](https://github.com/Fercho36)  | [Jy_piece (Gustavo Aris)](https://github.com/ArizzVal)
-Desarrollador del programa | Desarrollador de la Repo Git |"><img src="https://avatars.githubusercontent.com/u/165216584?v=4" width="250" height="250" alt="Fercho36"/></a>
+
+## 🙌 Hecho Gracias A
+
+| | | |
+|---|---|---|
+| <a href="https://github.com/Fercho36"><img src="https://avatars.githubusercontent.com/u/165216584?v=4" width="110" height="110" style="border-radius:50%; border: 3px solid #4CAF50; vertical-align: top;"></a><br><a href="https://github.com/Fercho36"><strong>Fercho36</strong></a><br>Desarrollador del programa | <a href="https://github.com/ArizzVal"><img src="https://avatars.githubusercontent.com/u/137434511?v=4" width="110" height="110" style="border-radius:50%; border: 3px solid #2196F3; vertical-align: top;"></a><br><a href="https://github.com/ArizzVal"><strong>Jy_piece</strong></a><br>Desarrollador del Repo Git | <img src="https://images.uncyclomedia.co/inciclopedia/es/thumb/9/99/Jes%C3%BAs_colega.jpg/250px-Jes%C3%BAs_colega.jpg" width="110" height="110" style="border-radius:50%; border: 3px solid #FF9800; vertical-align: top;"><br><strong>Jesús Colega</strong><br><small>Inspiración divina<br></small> |
 
 ###### Viva Cristo rey
