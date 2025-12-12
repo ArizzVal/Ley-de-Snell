@@ -15,11 +15,11 @@
 
 ## 📋 Datos Generales
 
-**👤 Nombre del estudiante:** [Tu nombre completo aquí]  
-**📚 Grupo:** [Tu grupo]  
-**🏫 Institución:** [Tu institución]  
+**👤 Nombres del equipo:** Lopez Barrera Gustavo Aristoteles, Martinez Valenzuela Fernando, Vega Mendoza Aldo Salvador, Caracosa Birrueta Silver Naim.  
+**📚 Grupo:** Equipo Fisica
+**🏫 Institución:** INSTITUTO TECNOLOGICO SUPERIOR DE APATZINGAN  
 **📅 Fecha:** Diciembre 2025  
-**📖 Materia:** Física - Electrostática  
+**📖 Materia:** Física - Electrostática - Unidad 5 
 
 **🎯 Título del proyecto:** *Modelado del Campo Eléctrico de un Dipolo con Python - Simulador Interactivo*
 
@@ -314,7 +314,7 @@ python dipolo_interactivo.py
 
 **¿El comportamiento coincidió con lo esperado?**
 
-**SÍ, completamente.** El simulador reprodujo fielmente:
+**SÍ, completamente.**
 
 ✅ **Dirección:** Líneas de + a - según teoría  
 ✅ **Intensidad:** Decae con 1/r² (Ley de Coulomb)  
@@ -415,7 +415,7 @@ Ver en **tiempo real** cómo responde el campo a los cambios reforzó significat
 ## 🪪 Licencia
 
 Este proyecto fue desarrollado con fines educativos para la materia de **Electrostática**.  
-Universidad: [Tu institución] - Diciembre 2025
+Universidad: ITSA - Diciembre 2025
 
 ---
 
@@ -423,6 +423,7 @@ Universidad: [Tu institución] - Diciembre 2025
 
 **⚡ Hecho con pasión por la física y la programación ⚡**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[tu-usuario])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fercho36)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArizzVal)
 
 </div>
